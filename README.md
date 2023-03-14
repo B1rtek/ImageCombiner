@@ -21,7 +21,7 @@ Adding a `--format png` option will specify that the input files are in the png 
 ***
 ![The Gif](https://cdn.discordapp.com/attachments/490264582888226828/1085256967871811706/MapleCorsairCombinedGIF.gif)
 ***
-This process can take **a lot** of time.
+(or [here](https://cdn.discordapp.com/attachments/490264582888226828/1085256967871811706/MapleCorsairCombinedGIF.gif) if this gif doesn't want to load for you. This process can take **a lot** of time.
 ## Building
 
 CMake will automatically download SFML for you on all platforms. In order to run it:
